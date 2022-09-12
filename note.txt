@@ -1,0 +1,14 @@
+padding : jarak dalam element
+margin : jarak luar element
+padding : 10px 20px // atas bawah kiri kanan
+margin : 10px 20px // atas bawah kiri kanan
+fungsi DIV : untuk grouping element agar mudah untuk di styling
+
+
+# Step GITHUB
+
+1. git init
+2. git add.
+3. git commit -m "B40-dayx-"
+4. git remote add origin "URL Repo"
+5. git push origin main/master 
