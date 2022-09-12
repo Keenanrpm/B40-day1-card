@@ -12,3 +12,8 @@ fungsi DIV : untuk grouping element agar mudah untuk di styling
 3. git commit -m "B40-dayx-"
 4. git remote add origin "URL Repo"
 5. git push origin main/master 
+
+ketika melakukan edit
+1. git add .
+2. git commit -m "name"
+3. git push origin main/master
